@@ -1,6 +1,6 @@
-# conversormoedas
+# flutter_conversor_moedas
 
-A new Flutter project.
+Conversor de 5 tipos de moedas em tempo real. Desenvolvido em Flutter.
 
 ## Getting Started
 
